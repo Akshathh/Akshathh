@@ -1,7 +1,9 @@
 <h1 align="center">Hi , I'm Akshat Tyagi</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”>
+<img align=“right” 
+  width=“400” src="[image](https://github.com/Akshathh/Akshathh/assets/143999686/26fccc2e-e20c-400f-83e3-eb615f006d29)
+">
 
 <p align="left"> <a href="https://twitter.com/_akshathh target="blank"><img src="https://img.shields.io/twitter/follow/_akshathh?logo=twitter&style=for-the-badge" alt="_akshathh" /></a> </p>
 
