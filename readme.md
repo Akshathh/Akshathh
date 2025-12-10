@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_akshathh target="blank"><img src="https://img.shields.io/twitter/follow/_akshathh?logo=twitter&style=for-the-badge" alt="_akshathh" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science**
+I’m currently learning **Computer Science**
 
 - 📫 How to reach me **akshattyagii007@gmail.com**
 
